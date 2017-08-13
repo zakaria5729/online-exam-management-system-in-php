@@ -1,0 +1,72 @@
+ *{margin:0;padding:0;outline:none}
+ body{font-family:verdana}.phpcoding{width:1100px; margin: 0 auto;background:#ddd}
+ .headeroption {
+  background: #444 url("../img/loginbanner1.jpg") no-repeat scroll 0 0;
+  border-bottom: 2px solid #444444;
+  height: 100px;
+}
+.footeroption{background:#444;color:#fff;text-align:center;padding:20px;}
+ .headeroption h2, .footeroption h2{margin:0;font-size:24px}
+.maincontent {
+  font-size: 18px;
+  min-height: 430px;
+  padding: 20px;
+}
+.success{
+  color:green;
+  display: block;
+  padding-bottom: 5px;}
+.error {
+  color: red;
+  display: block;
+  padding-bottom: 5px;
+}
+ p{margin:0}
+input[type="text"], input[type="password"] {
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 238px;
+}
+input[type="submit"] {
+  cursor: pointer;
+  font-size: 15px;
+  padding: 1px 10px;
+}
+ .tblone{width:100%;border:1px solid #fff;margin:20px 0}
+ .tblone td{padding:5px 10px;text-align:center;}
+ table.tblone tr:nth-child(2n+1){background:#fff;height:30px;}
+ table.tblone tr:nth-child(2n){background:#f1f1f1;height:30px;}
+
+.main {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #999;
+    margin-top: 8px;
+    min-height: 377px;
+    padding: 15px;
+    width: 1025px;
+}
+.main h1 {
+  border-bottom: 1px dashed #ddd;
+  color: #888;
+  margin: 0 0 5px;
+  padding-bottom: 5px;
+}
+.adminlogin {
+    border: 1px solid #bdbdbd;
+    border-radius: 12px;
+    margin: 55px auto 0;
+    padding: 50px;
+    width: 434px;
+}
+ .button_class input{
+     background: #f4f4f4 none repeat scroll 0 0;
+     border: 1px solid #666666;
+     color: #444444;
+     display: compact;
+     margin-top: 2px;
+     padding: 4px 12px;
+     text-align: center;
+     text-decoration: none;
+     border-radius: 3px;
+ }
