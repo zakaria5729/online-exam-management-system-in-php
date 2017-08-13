@@ -1,1 +1,1 @@
-Onile exam management system with HTML, CSS, PHP OOP, AJAX, Jquery, MYSQLi
+Online exam management system with HTML, CSS, PHP OOP, AJAX, Jquery, MYSQLi
