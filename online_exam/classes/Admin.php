@@ -16,7 +16,7 @@ class Admin{
         $adminUser = $this->fm->validation($_data['adminUser']);
         $adminPass = $this->fm->validation($_data['adminPass']);
 
-        $username  = mysqli_real_escape_string($this->db->link, $adminUser);
+        $adminUser  = mysqli_real_escape_string($this->db->link, $adminUser);
         $adminPass = mysqli_real_escape_string($this->db->link, md5($adminPass));
 
         $query = "select * from tbl_admin where adminUser='$adminUser' and adminPass='$adminPass'";
