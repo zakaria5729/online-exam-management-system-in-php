@@ -1,7 +1,7 @@
-## Online exam management system with HTML, CSS, PHP OOP, AJAX, Jquery, MYSQLi
+## Online Exam Management System using HTML, CSS, PHP OOPs, AJAX, jQuery, MYSQLi
 
 - Report: https://sites.google.com/diu.edu.bd/onlineexam/
 
 - Admin panel:
-usename = admin,
+username = admin,
 password = 123
