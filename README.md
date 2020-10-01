@@ -2,6 +2,6 @@
 
 - Report: https://sites.google.com/diu.edu.bd/onlineexam/
 
-- Admin panel:
-username = admin,
-password = 123
+- Admin panel : 
+Username = admin,
+Password = 123
